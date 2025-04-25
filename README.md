@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @djcc2001
+- 👋 Hi, I’m @djcc
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning backend and frontend
 - 💞️ I’m looking to collaborate on differente projects and increasse my knowledge
